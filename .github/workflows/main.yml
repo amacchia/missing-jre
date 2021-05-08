@@ -35,6 +35,7 @@ jobs:
 
       - name: Replace secrets in code
         run: |
+          cd lambda
           sed -i -e 's/TWITTER_API_KEY_SECRET/${{ secrets.TWITTER_API_KEY }}/g' \
           -e 's/TWITTER_SECRET_KEY_SECRET/${{ secrets.TWITTER_SECRET_KEY }}/g' \
           -e 's/TWITTER_ACCESS_TOKEN_SECRET/${{ secrets.TWITTER_ACCESS_TOKEN }}/g' \
