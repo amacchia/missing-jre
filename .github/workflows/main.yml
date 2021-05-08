@@ -41,9 +41,9 @@ jobs:
           sam deploy --stack-name missing-jre-stack \
             --s3-bucket aws-sam-cli-managed-default-samclisourcebucket-1t1v62pr4x2og \
             --parameter-overrides \
-              'twitter_api_key=${{ secrets.TWITTER_API_KEY }}, \
-              twitter_secret_key=${{ secrets.TWITTER_SECRET_KEY }} \
-              twitter_access_token=${{ secrets.TWITTER_ACCESS_TOKEN }} \
-              twitter_token_secret=${{ secrets.TWITTER_TOKEN_SECRET }} \
-              spotify_authorization=${{ secrets.SPOTIFY_AUTHORIZATION }}' \
+              'ParameterKey=twitter_api_key,ParameterValue=${{ secrets.TWITTER_API_KEY }}, \
+              ParameterKey=twitter_secret_key,ParameterValue=${{ secrets.TWITTER_SECRET_KEY }} \
+              ParameterKey=twitter_access_token,ParameterValue=${{ secrets.TWITTER_ACCESS_TOKEN }} \
+              ParameterKey=twitter_token_secret,ParameterValue=${{ secrets.TWITTER_TOKEN_SECRET }} \
+              ParameterKey=spotify_authorization,ParameterValue=${{ secrets.SPOTIFY_AUTHORIZATION }}' \
             --capabilities CAPABILITY_IAM
