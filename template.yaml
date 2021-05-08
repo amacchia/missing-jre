@@ -10,6 +10,7 @@ Resources:
       CodeUri: lambda/
       Handler: find_missing_episodes.main
       Runtime: python3.8
+      Timeout: 60
       Events:
         MissingJreTrigger:
           Type: Schedule

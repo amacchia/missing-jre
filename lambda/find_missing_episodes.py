@@ -5,7 +5,7 @@ from spotify_client import get_filtered_episodes_from_spotify
 from twitter_client import tweet_missing_episodes
 
 
-def main():
+def main(event, lambda_context):
     try:
         spotify_episode_numbers = get_filtered_episodes_from_spotify()
         all_episodes_dict = get_all_episodes_dict()
@@ -31,4 +31,4 @@ def find_missing_episodes(all_episodes_dict, spotify_episode_numbers):
 
 
 if __name__ == '__main__':
-    main()
+    main(None, None)
