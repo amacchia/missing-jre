@@ -33,6 +33,14 @@ jobs:
       - name: SAM Validate
         run: sam validate
 
+      - name: Replace secrets in code
+        run: |
+          sed -i -e 's/TWITTER_API_KEY_SECRET/${{ secrets.TWITTER_API_KEY }}/g' \
+          -e 's/TWITTER_SECRET_KEY_SECRET/${{ secrets.TWITTER_SECRET_KEY }}/g' \
+          -e 's/TWITTER_ACCESS_TOKEN_SECRET/${{ secrets.TWITTER_ACCESS_TOKEN }}/g' \
+          -e 's/TWITTER_TOKEN_SECRET_SECRET/${{ secrets.TWITTER_TOKEN_SECRET }}/g' \
+          -e 's/SPOTIFY_AUTHORIZATION_SECRET/${{ secrets.SPOTIFY_AUTHORIZATION }}/g' secrets.py
+
       - name: SAM build
         run: sam build
 
@@ -40,10 +48,4 @@ jobs:
         run: |
           sam deploy --stack-name missing-jre-stack \
             --s3-bucket aws-sam-cli-managed-default-samclisourcebucket-1t1v62pr4x2og \
-            --parameter-overrides \
-              'ParameterKey=twitter_api_key,ParameterValue=${{ secrets.TWITTER_API_KEY }}, \
-              ParameterKey=twitter_secret_key,ParameterValue=${{ secrets.TWITTER_SECRET_KEY }} \
-              ParameterKey=twitter_access_token,ParameterValue=${{ secrets.TWITTER_ACCESS_TOKEN }} \
-              ParameterKey=twitter_token_secret,ParameterValue=${{ secrets.TWITTER_TOKEN_SECRET }} \
-              ParameterKey=spotify_authorization,ParameterValue=${{ secrets.SPOTIFY_AUTHORIZATION }}' \
             --capabilities CAPABILITY_IAM

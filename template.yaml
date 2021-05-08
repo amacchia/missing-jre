@@ -3,18 +3,6 @@ Transform: AWS::Serverless-2016-10-31
 Description:
   Twitter bot for tweeting out missing episodes of the JRE podcast
 
-Parameters:
-  twitter_api_key:
-    Type: String
-  twitter_secret_key:
-    Type: String
-  twitter_access_token:
-    Type: String
-  twitter_token_secret:
-    Type: String
-  spotify_authorization:
-    Type: String
-
 Resources:
   MissingJreTwitterBot:
     Type: AWS::Serverless::Function
@@ -23,18 +11,6 @@ Resources:
       Handler: find_missing_episodes.main
       Runtime: python3.8
       Timeout: 60
-      Environment:
-        Variables:
-          TWITTER_API_KEY:
-            Ref: twitter_api_key
-          TWITTER_SECRET_KEY:
-            Ref: twitter_secret_key
-          TWITTER_ACCESS_TOKEN:
-            Ref: twitter_access_token
-          TWITTER_TOKEN_SECRET:
-            Ref: twitter_token_secret
-          SPOTIFY_AUTHORIZATION:
-            Ref: spotify_authorization
       Events:
         MissingJreTrigger:
           Type: Schedule

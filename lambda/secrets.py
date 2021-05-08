@@ -1,8 +1,6 @@
-import os
+twitter_api_key = 'TWITTER_API_KEY_SECRET'
+twitter_secret_key = 'TWITTER_SECRET_KEY_SECRET'
+twitter_access_token = 'TWITTER_ACCESS_TOKEN_SECRET'
+twitter_token_secret = 'TWITTER_TOKEN_SECRET_SECRET'
 
-twitter_api_key = os.environ.get('TWITTER_API_KEY')
-twitter_secret_key = os.environ.get('TWITTER_SECRET_KEY')
-twitter_access_token = os.environ.get('TWITTER_ACCESS_TOKEN')
-twitter_token_secret = os.environ.get('TWITTER_TOKEN_SECRET')
-
-spotify_authorization = os.environ.get('SPOTIFY_AUTHORIZATION')
+spotify_authorization = 'SPOTIFY_AUTHORIZATION_SECRET'
