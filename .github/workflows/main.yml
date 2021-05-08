@@ -23,10 +23,10 @@ jobs:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v2
 
-      - name: Install Dependencies with Apt Get
-        run: |
-          sudo apt-get update
-          sudo apt-get install python3.8 jq -y
+      # - name: Install Dependencies with Apt Get
+        # run: |
+        #   sudo apt-get update
+        #   sudo apt-get install python3.8 jq -y
           
       - name: Configure AWS Credentials Action for Github
           # You may pin to the exact commit or the version.
