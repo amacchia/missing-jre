@@ -37,5 +37,5 @@ for i in range(1, 1640):
     if episode_map.get(f'#{i}') == None:
         print(f'Missing ep: {i}')
 
-with open('master-list.json', 'w') as fp:
+with open('lambda/master-list.json', 'w') as fp:
     json.dump(episode_map, fp)

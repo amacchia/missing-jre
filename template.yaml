@@ -1,0 +1,21 @@
+Transform: AWS::Serverless-2016-10-31
+
+Description:
+  Twitter bot for tweeting out missing episodes of the JRE podcast
+
+Resources:
+  MissingJreTwitterBot:
+    Type: AWS::Serverless::Function
+    Properties:
+      CodeUri: lambda/
+      Handler: find_missing_episodes.main
+      Runtime: python3.8
+      Events:
+        MissingJreTrigger:
+          Type: Schedule
+          Properties:
+            Schedule: cron(0 0 * * ? *)
+            Name: missing-jre-tweet-schedule
+            Description: Schedule for tweeting out missing episodes of JRE
+            Enabled: True
+
