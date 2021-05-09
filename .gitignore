@@ -1,3 +1,5 @@
 __pycache__/*
 .aws-sam/*
 samconfig.toml
+local_test_secrets.py
+lambda/__pycache__/*

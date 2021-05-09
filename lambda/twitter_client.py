@@ -1,3 +1,4 @@
+from datetime import datetime
 from secrets import (twitter_access_token, twitter_api_key, twitter_secret_key,
                      twitter_token_secret)
 
@@ -24,7 +25,7 @@ def tweet_missing_episodes(missing_episodes):
 def _build_tweets(missing_episodes):
     tweets = []
 
-    tweet_string = f'Total Missing Episodes: {len(missing_episodes)}\n'
+    tweet_string = f'Total Missing Episodes as of {datetime.now().isoformat()}: {len(missing_episodes)}\n'
     for missing_ep in missing_episodes:
         missing_ep_string = f"{missing_ep['episodeNumber']} - {missing_ep['guest']}"
         if len(tweet_string) + len(missing_ep_string) > MAX_CHARACTERS_PER_TWEET:
