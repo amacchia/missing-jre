@@ -15,7 +15,7 @@ MAX_CHARACTERS_PER_TWEET = 280
 
 def tweet_missing_episodes(missing_episodes):
     tweets = _build_tweets(missing_episodes)
-
+    
     first_tweet = tweets[0]
     reply_id = _post_tweet(first_tweet, None)
     for tweet in tweets[1:]:
@@ -33,6 +33,8 @@ def _build_tweets(missing_episodes):
             tweet_string = missing_ep_string
             continue
         tweet_string += f"\n{missing_ep_string}"
+
+    tweets.append(tweet_string)
 
     return tweets
 

@@ -1,4 +1,664 @@
 {
+    "#1771": {
+        "episodeNumber": "#1771",
+        "guest": "Andy Stumpf",
+        "date": "2022-02-3"
+    },
+    "#1770": {
+        "episodeNumber": "#1770",
+        "guest": "Valentine Thomas",
+        "date": "2022-01-26"
+    },
+    "#1769": {
+        "episodeNumber": "#1769",
+        "guest": "Jordan Peterson",
+        "date": "2022-01-25"
+    },
+    "#1768": {
+        "episodeNumber": "#1768",
+        "guest": "Dr. Robert Epstein",
+        "date": "2022-01-21"
+    },
+    "#1767": {
+        "episodeNumber": "#1767",
+        "guest": "James Lindsay",
+        "date": "2022-01-20"
+    },
+    "#1766": {
+        "episodeNumber": "#1766",
+        "guest": "Ben Patrick",
+        "date": "2022-01-19"
+    },
+    "#1765": {
+        "episodeNumber": "#1765",
+        "guest": "Phillip Frankland Lee",
+        "date": "2022-01-18"
+    },
+    "#1764": {
+        "episodeNumber": "#1764",
+        "guest": "Ari Shaffir, Shane Gillis, Mark Normand",
+        "date": "2022-01-14"
+    },
+    "#1763": {
+        "episodeNumber": "#1763",
+        "guest": "General H.R. McMaster",
+        "date": "2022-01-13"
+    },
+    "#1762": {
+        "episodeNumber": "#1762",
+        "guest": "Josh Zepps",
+        "date": "2022-01-12"
+    },
+    "#1761": {
+        "episodeNumber": "#1761",
+        "guest": "Jim Gaffigan",
+        "date": "2022-01-11"
+    },
+    "#1760": {
+        "episodeNumber": "#1760",
+        "guest": "Adam Curry",
+        "date": "2022-01-8"
+    },
+    "#1759": {
+        "episodeNumber": "#1759",
+        "guest": "Oliver Stone",
+        "date": "2022-01-5"
+    },
+    "#1758": {
+        "episodeNumber": "#1758",
+        "guest": "Carrot Top",
+        "date": "2022-01-4"
+    },
+    "#1757": {
+        "episodeNumber": "#1757",
+        "guest": "Dr. Robert Malone",
+        "date": "2021-12-31"
+    },
+    "#1756": {
+        "episodeNumber": "#1756",
+        "guest": "John Abramson",
+        "date": "2021-12-30"
+    },
+    "#1755": {
+        "episodeNumber": "#1755",
+        "guest": "Tony Woods",
+        "date": "2021-12-29"
+    },
+    "#1754": {
+        "episodeNumber": "#1754",
+        "guest": "Suzanne Santo",
+        "date": "2021-12-28"
+    },
+    "#1753": {
+        "episodeNumber": "#1753",
+        "guest": "Brian Redban",
+        "date": "2021-12-24"
+    },
+    "#1752": {
+        "episodeNumber": "#1752",
+        "guest": "Tim Dillon",
+        "date": "2021-12-24"
+    },
+    "#1751": {
+        "episodeNumber": "#1751",
+        "guest": "Brian Simpson",
+        "date": "2021-12-23"
+    },
+    "#1750": {
+        "episodeNumber": "#1750",
+        "guest": "Ari Shaffir, Tony Hinchcliffe",
+        "date": "2021-12-22"
+    },
+    "#1749": {
+        "episodeNumber": "#1749",
+        "guest": "Shane Dorian",
+        "date": "2021-12-21"
+    },
+    "#1748": {
+        "episodeNumber": "#1748",
+        "guest": "Beeple",
+        "date": "2021-12-14"
+    },
+    "#1747": {
+        "episodeNumber": "#1747",
+        "guest": "Dr. Peter McCullough",
+        "date": "2021-12-13"
+    },
+    "#1746": {
+        "episodeNumber": "#1746",
+        "guest": "Blaire White",
+        "date": "2021-12-10"
+    },
+    "#1745": {
+        "episodeNumber": "#1745",
+        "guest": "Matt Taibbi",
+        "date": "2021-12-7"
+    },
+    "#1744": {
+        "episodeNumber": "#1744",
+        "guest": "Derek from More Plates More Dates",
+        "date": "2021-12-3"
+    },
+    "#1743": {
+        "episodeNumber": "#1743",
+        "guest": "Steven Pinker",
+        "date": "2021-12-2"
+    },
+    "#1742": {
+        "episodeNumber": "#1742",
+        "guest": "Jimmy Corsetti",
+        "date": "2021-12-1"
+    },
+    "#1741": {
+        "episodeNumber": "#1741",
+        "guest": "Ted Nugent",
+        "date": "2021-11-30"
+    },
+    "#1740": {
+        "episodeNumber": "#1740",
+        "guest": "Jocko Willink",
+        "date": "2021-11-26"
+    },
+    "#1739": {
+        "episodeNumber": "#1739",
+        "guest": "Philip Goff",
+        "date": "2021-11-24"
+    },
+    "#1738": {
+        "episodeNumber": "#1738",
+        "guest": "Ben O'Brien",
+        "date": "2021-11-23"
+    },
+    "#1737": {
+        "episodeNumber": "#1737",
+        "guest": "Tim Pool",
+        "date": "2021-11-22"
+    },
+    "#1736": {
+        "episodeNumber": "#1736",
+        "guest": "Tristan Harris, Daniel Schmachtenberger",
+        "date": "2021-11-18"
+    },
+    "#1735": {
+        "episodeNumber": "#1735",
+        "guest": "Peter Attia",
+        "date": "2021-11-17"
+    },
+    "#1734": {
+        "episodeNumber": "#1734",
+        "guest": "Ron White",
+        "date": "2021-11-16"
+    },
+    "#1733": {
+        "episodeNumber": "#1733",
+        "guest": "Snoop Dogg",
+        "date": "2021-11-12"
+    },
+    "#1732": {
+        "episodeNumber": "#1732",
+        "guest": "Ben Shapiro",
+        "date": "2021-11-10"
+    },
+    "#1731": {
+        "episodeNumber": "#1731",
+        "guest": "Theo Von",
+        "date": "2021-11-8"
+    },
+    "#1730": {
+        "episodeNumber": "#1730",
+        "guest": "Cameron Hanes",
+        "date": "2021-11-5"
+    },
+    "#1729": {
+        "episodeNumber": "#1729",
+        "guest": "Gilbert Gottfried",
+        "date": "2021-11-4"
+    },
+    "#1728": {
+        "episodeNumber": "#1728",
+        "guest": "Ari Shaffir, Shane Gillis, Mark Normand",
+        "date": "2021-11-3"
+    },
+    "#1727": {
+        "episodeNumber": "#1727",
+        "guest": "Rob Kearney",
+        "date": "2021-10-28"
+    },
+    "#1726": {
+        "episodeNumber": "#1726",
+        "guest": "Chuck Palahniuk",
+        "date": "2021-10-27"
+    },
+    "#1725": {
+        "episodeNumber": "#1725",
+        "guest": "Bridget Phetasy",
+        "date": "2021-10-26"
+    },
+    "#1724": {
+        "episodeNumber": "#1724",
+        "guest": "Jewel",
+        "date": "2021-10-25"
+    },
+    "#1723": {
+        "episodeNumber": "#1723",
+        "guest": "Amishi Jha",
+        "date": "2021-10-21"
+    },
+    "#1722": {
+        "episodeNumber": "#1722",
+        "guest": "Bartow Elmore",
+        "date": "20211-10-20"
+    },
+    "#1717": {
+        "episodeNumber": "#1717",
+        "guest": "Alex Berenson",
+        "date": "2021-10-12"
+    },
+    "#1721": {
+        "episodeNumber": "#1721",
+        "guest": "Michael Malice",
+        "date": "2021-10-19"
+    },
+    "#1720": {
+        "episodeNumber": "#1720",
+        "guest": "Tony Hinchcliffe, Brian Redban",
+        "date": "2021-10-15"
+    },
+    "#1719": {
+        "episodeNumber": "#1719",
+        "guest": "Michael Shellenberger",
+        "date": "2021-10-14"
+    },
+    "#1718": {
+        "episodeNumber": "#1718",
+        "guest": "Dr. Sanjay Gupta",
+        "date": "202-10-13"
+    },
+    "#1716": {
+        "episodeNumber": "#1716",
+        "guest": "Steven Rinella",
+        "date": "2021-10-7"
+    },
+    "#1715": {
+        "episodeNumber": "#1715",
+        "guest": "Jessica Kirson",
+        "date": "2021-10-6"
+    },
+    "#1714": {
+        "episodeNumber": "#1714",
+        "guest": "Josh Dubin, Robert Jones",
+        "date": "2021-10-5"
+    },
+    "#1713": {
+        "episodeNumber": "#1713",
+        "guest": "Mike Baker",
+        "date": "2021-09-30"
+    },
+    "#1712": {
+        "episodeNumber": "#1712",
+        "guest": "Bert Kreischer",
+        "date": "2021-09-28"
+    },
+    "#1711": {
+        "episodeNumber": "#1711",
+        "guest": "Patrick Bet-David",
+        "date": "2021-09-23"
+    },
+    "#1710": {
+        "episodeNumber": "#1710",
+        "guest": "Cullen Hoback",
+        "date": "2021-09-22"
+    },
+    "#1709": {
+        "episodeNumber": "#1709",
+        "guest": "Amanda Knox",
+        "date": "2021-09-21"
+    },
+    "#1708": {
+        "episodeNumber": "#1708",
+        "guest": "Anna Lembke",
+        "date": "2021-09-16"
+    },
+    "#1707": {
+        "episodeNumber": "#1707",
+        "guest": "Kyle Dunnigan, Kurt Metzger",
+        "date": "2021-09-15"
+    },
+    "#1706": {
+        "episodeNumber": "#1706",
+        "guest": "Billy Corben",
+        "date": "2021-09-14"
+    },
+    "#1705": {
+        "episodeNumber": "#1705",
+        "guest": "Bret Weinstein, Heather Heying",
+        "date": "2021-09-9"
+    },
+    "#1704": {
+        "episodeNumber": "#1704",
+        "guest": "C.K. Chin",
+        "date": "2021-09-8"
+    },
+    "#1703": {
+        "episodeNumber": "#1703",
+        "guest": "Tom Segura",
+        "date": "2021-09-7"
+    },
+    "#1702": {
+        "episodeNumber": "#1702",
+        "guest": "Laurie Woolever",
+        "date": "2021-08-26"
+    },
+    "#1701": {
+        "episodeNumber": "#1701",
+        "guest": "Dr. Rhonda Patrick",
+        "date": "2021-08-25"
+    },
+    "#1700": {
+        "episodeNumber": "#1700",
+        "guest": "Eleanor Kerrigan",
+        "date": "2021-08-24"
+    },
+    "#1699": {
+        "episodeNumber": "#1699",
+        "guest": "Meghan Murphy",
+        "date": "2021-08-20"
+    },
+    "#1698": {
+        "episodeNumber": "#1698",
+        "guest": "Neill Blomkamp",
+        "date": "2021-08-19"
+    },
+    "#1697": {
+        "episodeNumber": "#1697",
+        "guest": "Zuby",
+        "date": "2021-08-18"
+    },
+    "#1696": {
+        "episodeNumber": "#1696",
+        "guest": "Lex Fridman",
+        "date": "2021-08-17"
+    },
+    "#1695": {
+        "episodeNumber": "#1695",
+        "guest": "Andrew Schulz",
+        "date": "2021-08-12"
+    },
+    "#1694": {
+        "episodeNumber": "#1694",
+        "guest": "Ms. Pat, Jordan E. Cooper",
+        "date": "2021-08-11"
+    },
+    "#1693": {
+        "episodeNumber": "#1693",
+        "guest": "Evan Hafer",
+        "date": "2021-08-6"
+    },
+    "#1692": {
+        "episodeNumber": "#1692",
+        "guest": "Jason Wilson",
+        "date": "2021-08-5"
+    },
+    "#1691": {
+        "episodeNumber": "#1691",
+        "guest": "Yeonmi Park",
+        "date": "2021-08-3"
+    },
+    "#1690": {
+        "episodeNumber": "#1690",
+        "guest": "Jessimae Peluso",
+        "date": "2021-07-31"
+    },
+    "#1689": {
+        "episodeNumber": "#1689",
+        "guest": "Yannis Pappas",
+        "date": "2021-07-29"
+    },
+    "#1688": {
+        "episodeNumber": "#1688",
+        "guest": "Greg Fitzsimmons",
+        "date": "2021-07-28"
+    },
+    "#1687": {
+        "episodeNumber": "#1687",
+        "guest": "Jimmy Dore",
+        "date": "2021-07-27"
+    },
+    "#1686": {
+        "episodeNumber": "#1686",
+        "guest": "Ari Shaffir",
+        "date": "2021-07-22"
+    },
+    "#1685": {
+        "episodeNumber": "#1685",
+        "guest": "Shane Gillis",
+        "date": "2021-07-21"
+    },
+    "#1684": {
+        "episodeNumber": "#1684",
+        "guest": "Abby Martin",
+        "date": "2021-07-20"
+    },
+    "#1683": {
+        "episodeNumber": "#1683",
+        "guest": "Andrew Huberman",
+        "date": "2021-07-14"
+    },
+    "#1682": {
+        "episodeNumber": "#1682",
+        "guest": "Jesse Singal",
+        "date": "2021-07-13"
+    },
+    "#1681": {
+        "episodeNumber": "#1681",
+        "guest": "Brian Simpson",
+        "date": "2021-07-12"
+    },
+    "#1680": {
+        "episodeNumber": "#1680",
+        "guest": "Jakob Dylan",
+        "date": "2021-07-7"
+    },
+    "#1679": {
+        "episodeNumber": "#1679",
+        "guest": "Adam Curry",
+        "date": "2021-07-6"
+    },
+    "#1678": {
+        "episodeNumber": "#1678",
+        "guest": "Michael Pollan",
+        "date": "2021-07-5"
+    },
+    "#1677": {
+        "episodeNumber": "#1677",
+        "guest": "Tim Dillon",
+        "date": "2021-07-3"
+    },
+    "#1676": {
+        "episodeNumber": "#1676",
+        "guest": "Jesse Griffiths",
+        "date": "2021-07-1"
+    },
+    "#1675": {
+        "episodeNumber": "#1675",
+        "guest": "Quentin Tarantino",
+        "date": "2021-06-29"
+    },
+    "#1674": {
+        "episodeNumber": "#1674",
+        "guest": "Clay Newcomb",
+        "date": "2021-06-26"
+    },
+    "#1673": {
+        "episodeNumber": "#1673",
+        "guest": "Colin Wright",
+        "date": "2021-06-25"
+    },
+    "#1672": {
+        "episodeNumber": "#1672",
+        "guest": "Iliza Shlesinger",
+        "date": "2021-06-24"
+    },
+    "#1671": {
+        "episodeNumber": "#1671",
+        "guest": "Bret Weinstein, Dr. Pierre Kory",
+        "date": "2021-06-23"
+    },
+    "#1670": {
+        "episodeNumber": "#1670",
+        "guest": "David Sinclair",
+        "date": "2021-06-18"
+    },
+    "#1669": {
+        "episodeNumber": "#1669",
+        "guest": "Kyle Kulinski",
+        "date": "2021-06-17"
+    },
+    "#1668": {
+        "episodeNumber": "#1668",
+        "guest": "Krystal Ball, Saagar Enjeti",
+        "date": "2021-06-16"
+    },
+    "#1667": {
+        "episodeNumber": "#1667",
+        "guest": "Annie Lederman",
+        "date": "2021-06-15"
+    },
+    "#1666": {
+        "episodeNumber": "#1666",
+        "guest": "Duncan Trussell",
+        "date": "2021-06-11"
+    },
+    "#1665": {
+        "episodeNumber": "#1665",
+        "guest": "Carole Hooven",
+        "date": "2021-06-10"
+    },
+    "#1664": {
+        "episodeNumber": "#1664",
+        "guest": "Josh Dubin",
+        "date": "2021-06-9"
+    },
+    "#1663": {
+        "episodeNumber": "#1663",
+        "guest": "Edward Slingerland",
+        "date": "2021-06-8"
+    },
+    "#1662": {
+        "episodeNumber": "#1662",
+        "guest": "Tom Papa",
+        "date": "2021-06-5"
+    },
+    "#1661": {
+        "episodeNumber": "#1661",
+        "guest": "Rick Doblin",
+        "date": "2021-06-4"
+    },
+    "#1660": {
+        "episodeNumber": "#1660",
+        "guest": "David Lee Roth",
+        "date": "2021-06-3"
+    },
+    "#1659": {
+        "episodeNumber": "#1659",
+        "guest": "Scott Eastwood",
+        "date": "2021-06-2"
+    },
+    "#1658": {
+        "episodeNumber": "#1658",
+        "guest": "Neil deGrasse Tyson",
+        "date": "2021-05-26"
+    },
+    "#1657": {
+        "episodeNumber": "#1657",
+        "guest": "Steve Adler",
+        "date": "2021-05-25"
+    },
+    "#1656": {
+        "episodeNumber": "#1656",
+        "guest": "Adam Duritz",
+        "date": "2021-05-21"
+    },
+    "#1655": {
+        "episodeNumber": "#1655",
+        "guest": "Sebastian Junger",
+        "date": "2021-05-20"
+    },
+    "#1654": {
+        "episodeNumber": "#1654",
+        "guest": "Whitney Cummings",
+        "date": "2021-05-19"
+    },
+    "#1653": {
+        "episodeNumber": "#1653",
+        "guest": "Andy Norman",
+        "date": "2021-05-18"
+    },
+    "#1652": {
+        "episodeNumber": "#1652",
+        "guest": "Anthony Cumia",
+        "date": "2021-05-14"
+    },
+    "#1651": {
+        "episodeNumber": "#1651",
+        "guest": "Joe List",
+        "date": "2021-05-13"
+    },
+    "#1650": {
+        "episodeNumber": "#1650",
+        "guest": "Russell Peters",
+        "date": "2021-05-12"
+    },
+    "#1649": {
+        "episodeNumber": "#1649",
+        "guest": "Michael Easter",
+        "date": "2021-05-11"
+    },
+    "#1648": {
+        "episodeNumber": "#1648",
+        "guest": "Reggie Watts",
+        "date": "2021-05-8"
+    },
+    "#1647": {
+        "episodeNumber": "#1647",
+        "guest": "Dave Chappelle",
+        "date": "2021-05-7"
+    },
+    "#1646": {
+        "episodeNumber": "#1646",
+        "guest": "David Holthouse",
+        "date": "2021-05-6"
+    },
+    "#1645": {
+        "episodeNumber": "#1645",
+        "guest": "Christopher Mellon",
+        "date": "2021-05-5"
+    },
+    "#1644": {
+        "episodeNumber": "#1644",
+        "guest": "Ethan Suplee",
+        "date": "2021-05-4"
+    },
+    "#1643": {
+        "episodeNumber": "#1643",
+        "guest": "Jonathan Zimmerman",
+        "date": "2021-04-30"
+    },
+    "#1642": {
+        "episodeNumber": "#1642",
+        "guest": "Andrew Santino",
+        "date": "2021-04-29"
+    },
+    "#1641": {
+        "episodeNumber": "#1641",
+        "guest": "Matty Matheson",
+        "date": "2021-04-28"
+    },
+    "#1640": {
+        "episodeNumber": "#1640",
+        "guest": "Josh Rogin",
+        "date": "2021-04-27"
+    },
     "#1639": {
         "episodeNumber": "#1639",
         "guest": "Dave Smith",
@@ -326,7 +986,7 @@
     },
     "#1574": {
         "episodeNumber": "#1574",
-        "guest": "Jacques Vall\u00c3\u00a9e & James Fox",
+        "guest": "Jacques Vallée & James Fox",
         "date": "2020-12-4"
     },
     "#1573": {
@@ -1881,7 +2541,7 @@
     },
     "#1263": {
         "episodeNumber": "#1263",
-        "guest": "Ren\u00c3\u00a9e DiResta",
+        "guest": "Renée DiResta",
         "date": "2019-03-13"
     },
     "#1262": {
@@ -3551,7 +4211,7 @@
     },
     "#929": {
         "episodeNumber": "#929",
-        "guest": "Dan Pe\u00c3\u00b1a",
+        "guest": "Dan Peña",
         "date": "2017-03-11"
     },
     "#928": {

@@ -51,6 +51,6 @@ def _filter_episodes(episodes):
         if not name.startswith('#'):
             continue
 
-        episode_numbers.add(name.split('-')[0].strip())
+        episode_numbers.add(name.split(' ', maxsplit=1)[0].strip())
 
     return episode_numbers
