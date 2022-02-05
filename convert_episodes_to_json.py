@@ -33,7 +33,7 @@ with open('jre-episode-list.csv', newline='') as csvfile:
         row['date'] = convert_date(row['date'])
         episode_map[row['episodeNumber']] = row
 
-for i in range(1, 1640):
+for i in range(1, 1771):
     if episode_map.get(f'#{i}') == None:
         print(f'Missing ep: {i}')
 

@@ -3,3 +3,4 @@ __pycache__/*
 samconfig.toml
 local_test_secrets.py
 lambda/__pycache__/*
+.vscode/launch.json
