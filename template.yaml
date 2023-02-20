@@ -18,5 +18,5 @@ Resources:
             Schedule: cron(0 0 * * ? *)
             Name: missing-jre-tweet-schedule
             Description: Schedule for tweeting out missing episodes of JRE
-            Enabled: True
+            Enabled: false
 
