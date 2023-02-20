@@ -10,7 +10,7 @@ Resources:
       CodeUri: lambda/
       Handler: find_missing_episodes.main
       Runtime: python3.8
-      Timeout: 60
+      Timeout: 120
       Events:
         MissingJreTrigger:
           Type: Schedule
@@ -18,5 +18,5 @@ Resources:
             Schedule: cron(0 0 * * ? *)
             Name: missing-jre-tweet-schedule
             Description: Schedule for tweeting out missing episodes of JRE
-            Enabled: false
+            Enabled: true
 
