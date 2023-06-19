@@ -1,4 +1,149 @@
 {
+    "#1999": {
+        "episodeNumber": "#1999",
+        "guest": "Robert Kennedy Jr.",
+        "date": "2023-06-15"
+    },
+    "#1998": {
+        "episodeNumber": "#1998",
+        "guest": "Ali Siddiq",
+        "date": "2023-06-14"
+    },
+    "#1997": {
+        "episodeNumber": "#1997",
+        "guest": "Cameron Hanes",
+        "date": "2023-06-13"
+    },
+    "#1996": {
+        "episodeNumber": "#1996",
+        "guest": "Andy Stumpf",
+        "date": "2023-06-8"
+    },
+    "#1995": {
+        "episodeNumber": "#1995",
+        "guest": "Chad Stahelski",
+        "date": "2023-06-7"
+    },
+    "#1994": {
+        "episodeNumber": "#1994",
+        "guest": "Theo Von",
+        "date": "2023-06-6"
+    },
+    "#1993": {
+        "episodeNumber": "#1993",
+        "guest": "Josh Dubin, Bruce Bryan",
+        "date": "2023-06-1"
+    },
+    "#1992": {
+        "episodeNumber": "#1992",
+        "guest": "Oliver Stone",
+        "date": "2023-05-30"
+    },
+    "#1991": {
+        "episodeNumber": "#1991",
+        "guest": "Ari Shaffir, Shane Gillis, Mark Normand",
+        "date": "2023-05-26"
+    },
+    "#1990": {
+        "episodeNumber": "#1990",
+        "guest": "Bert Kreischer",
+        "date": "2023-05-25"
+    },
+    "#1989": {
+        "episodeNumber": "#1989",
+        "guest": "Andrew Dice Clay",
+        "date": "2023-05-24"
+    },
+    "#1988": {
+        "episodeNumber": "#1988",
+        "guest": "James Reed",
+        "date": "2023-05-18"
+    },
+    "#1987": {
+        "episodeNumber": "#1987",
+        "guest": "Jelly Roll",
+        "date": "2023-05-17"
+    },
+    "#1986": {
+        "episodeNumber": "#1986",
+        "guest": "Jack Carr",
+        "date": "2023-05-16"
+    },
+    "#1985": {
+        "episodeNumber": "#1985",
+        "guest": "Steven Wright",
+        "date": "2023-05-13"
+    },
+    "#1984": {
+        "episodeNumber": "#1984",
+        "guest": "Brian Redban",
+        "date": "2023-05-11"
+    },
+    "#1983": {
+        "episodeNumber": "#1983",
+        "guest": "Kim Congdon, Sara Weinshenk",
+        "date": "2023-05-10"
+    },
+    "#1982": {
+        "episodeNumber": "#1982",
+        "guest": "John Hennessey",
+        "date": "2023-05-5"
+    },
+    "#1981": {
+        "episodeNumber": "#1981",
+        "guest": "Pauly Shore",
+        "date": "2023-05-3"
+    },
+    "#1980": {
+        "episodeNumber": "#1980",
+        "guest": "Michio Kaku",
+        "date": "2023-05-2"
+    },
+    "#1979": {
+        "episodeNumber": "#1979",
+        "guest": "Dr. Aseem Malhotra",
+        "date": "2023-04-29"
+    },
+    "#1978": {
+        "episodeNumber": "#1978",
+        "guest": "Ms. Pat",
+        "date": "2023-04-28"
+    },
+    "#1977": {
+        "episodeNumber": "#1977",
+        "guest": "Dave Smith",
+        "date": "2023-04-27"
+    },
+    "#1976": {
+        "episodeNumber": "#1976",
+        "guest": "James Fox",
+        "date": "2023-04-26"
+    },
+    "#1975": {
+        "episodeNumber": "#1975",
+        "guest": "Dan Flores",
+        "date": "2023-04-25"
+    },
+    "#1974": {
+        "episodeNumber": "#1974",
+        "guest": "Ric Flair",
+        "date": "2023-04-22"
+    },
+    "#1973": {
+        "episodeNumber": "#1973",
+        "guest": "Joey Diaz",
+        "date": "2023-04-21"
+    },
+    "#1972": {
+        "episodeNumber": "#1972",
+        "guest": "Jim Breuer",
+        "date": "2023-04-20"
+    },
+    "#1971": {
+        "episodeNumber": "#1971",
+        "guest": "Howie Mandel",
+        "date": "2023-04-19"
+    },
     "#1970": {
         "episodeNumber": "#1970",
         "guest": "Bill Ottman",
@@ -168,6 +313,11 @@
         "episodeNumber": "#1937",
         "guest": "Punkie Johnson",
         "date": "2023-02-7"
+    },
+    "#1936": {
+        "episodeNumber": "#1936",
+        "guest": "Krystal Ball, Saagar Enjeti",
+        "date": "2023-02-4"
     },
     "#1935": {
         "episodeNumber": "#1935",
@@ -2551,12 +2701,12 @@
     },
     "#1459": {
         "episodeNumber": "#1459",
-        "guest": "Tom O'Neill",
+        "guest": "Tom O\u00e2\u20ac\u2122Neill",
         "date": "2020-04-16"
     },
     "#1458": {
         "episodeNumber": "#1458",
-        "guest": "Chris D'Elia",
+        "guest": "Chris D\u00e2\u20ac\u2122Elia",
         "date": "2020-04-15"
     },
     "#1457": {
@@ -2636,7 +2786,7 @@
     },
     "#1442": {
         "episodeNumber": "#1442",
-        "guest": "Shannon O'Loughlin",
+        "guest": "Shannon O\u00e2\u20ac\u2122Loughlin",
         "date": "2020-03-17"
     },
     "#1441": {
@@ -2701,7 +2851,7 @@
     },
     "#1429": {
         "episodeNumber": "#1429",
-        "guest": "Colin O'Brady",
+        "guest": "Colin O\u00e2\u20ac\u2122Brady",
         "date": "2020-02-20"
     },
     "#1428": {
@@ -3626,7 +3776,7 @@
     },
     "#1244": {
         "episodeNumber": "#1244",
-        "guest": "Colin O'Brady",
+        "guest": "Colin O\u00e2\u20ac\u2122Brady",
         "date": "2019-02-12"
     },
     "#1243": {
@@ -3771,7 +3921,7 @@
     },
     "#1215": {
         "episodeNumber": "#1215",
-        "guest": "Ben O'Brien",
+        "guest": "Ben O\u00e2\u20ac\u2122Brien",
         "date": "2018-12-18"
     },
     "#1214": {
@@ -3966,7 +4116,7 @@
     },
     "#1176": {
         "episodeNumber": "#1176",
-        "guest": "Dom D'Agostino, Dr. Layne Norton",
+        "guest": "Dom D\u00e2\u20ac\u2122Agostino, Dr. Layne Norton",
         "date": "2018-09-28"
     },
     "#1175": {
@@ -4876,7 +5026,7 @@
     },
     "#994": {
         "episodeNumber": "#994",
-        "guest": "Dom D'Agostino",
+        "guest": "Dom D\u00e2\u20ac\u2122Agostino",
         "date": "2017-08-7"
     },
     "#993": {
@@ -4911,7 +5061,7 @@
     },
     "#987": {
         "episodeNumber": "#987",
-        "guest": "Ben O'Brien",
+        "guest": "Ben O\u00e2\u20ac\u2122Brien",
         "date": "2017-07-14"
     },
     "#986": {
@@ -4926,7 +5076,7 @@
     },
     "#984": {
         "episodeNumber": "#984",
-        "guest": "Yvette d'Entremont",
+        "guest": "Yvette d\u00e2\u20ac\u2122Entremont",
         "date": "2017-07-6"
     },
     "#983": {
@@ -4946,7 +5096,7 @@
     },
     "#980": {
         "episodeNumber": "#980",
-        "guest": "Chris D'Elia",
+        "guest": "Chris D\u00e2\u20ac\u2122Elia",
         "date": "2017-06-27"
     },
     "#979": {
