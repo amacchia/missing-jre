@@ -516,7 +516,7 @@
     },
     "#1896": {
         "episodeNumber": "#1896",
-        "guest": "Bj\u00c3\u00b8rn Lomborg",
+        "guest": "Bjørn Lomborg",
         "date": "2022-11-9"
     },
     "#1895": {
@@ -617,7 +617,7 @@
     "#1876": {
         "episodeNumber": "#1876",
         "guest": "Greg Fitzsimmons",
-        "date": "2022\t-09-30"
+        "date": "2022-09-30"
     },
     "#1875": {
         "episodeNumber": "#1875",
@@ -627,7 +627,7 @@
     "#1874": {
         "episodeNumber": "#1874",
         "guest": "Dave Attell",
-        "date": "2022\t-09-27"
+        "date": "2022-09-27"
     },
     "#1873": {
         "episodeNumber": "#1873",
@@ -651,13 +651,13 @@
     },
     "#1869": {
         "episodeNumber": "#1869",
-        "guest": "Dr. Gabor Mat\u00c3\u00a9",
+        "guest": "Dr. Gabor Maté",
         "date": "2022-09-13"
     },
     "#1868": {
         "episodeNumber": "#1868",
         "guest": "Sam Morril",
-        "date": "2022\t-09-7"
+        "date": "2022-09-7"
     },
     "#1867": {
         "episodeNumber": "#1867",
@@ -702,12 +702,12 @@
     "#1859": {
         "episodeNumber": "#1859",
         "guest": "Louis C.K., Joe List",
-        "date": "2022\t-08-18"
+        "date": "2022-08-18"
     },
     "#1858": {
         "episodeNumber": "#1858",
         "guest": "Josh Dubin, Derrick Hamilton",
-        "date": "2022\t-08-17"
+        "date": "2022-08-17"
     },
     "#1857": {
         "episodeNumber": "#1857",
@@ -862,7 +862,7 @@
     "#1827": {
         "episodeNumber": "#1827",
         "guest": "Kristin Beck",
-        "date": "2022\t-06-1"
+        "date": "2022-06-1"
     },
     "#1826": {
         "episodeNumber": "#1826",
@@ -1112,7 +1112,7 @@
     "#1777": {
         "episodeNumber": "#1777",
         "guest": "Andrew Dessler",
-        "date": "2022\t-02-16"
+        "date": "2022-02-16"
     },
     "#1776": {
         "episodeNumber": "#1776",
@@ -2126,7 +2126,7 @@
     },
     "#1574": {
         "episodeNumber": "#1574",
-        "guest": "Jacques Vall\u00c3\u00a9e & James Fox",
+        "guest": "Jacques Vallée & James Fox",
         "date": "2020-12-4"
     },
     "#1573": {
@@ -2701,12 +2701,12 @@
     },
     "#1459": {
         "episodeNumber": "#1459",
-        "guest": "Tom O\u00e2\u20ac\u2122Neill",
+        "guest": "Tom O'Neill",
         "date": "2020-04-16"
     },
     "#1458": {
         "episodeNumber": "#1458",
-        "guest": "Chris D\u00e2\u20ac\u2122Elia",
+        "guest": "Chris D'Elia",
         "date": "2020-04-15"
     },
     "#1457": {
@@ -2786,7 +2786,7 @@
     },
     "#1442": {
         "episodeNumber": "#1442",
-        "guest": "Shannon O\u00e2\u20ac\u2122Loughlin",
+        "guest": "Shannon O'Loughlin",
         "date": "2020-03-17"
     },
     "#1441": {
@@ -2851,7 +2851,7 @@
     },
     "#1429": {
         "episodeNumber": "#1429",
-        "guest": "Colin O\u00e2\u20ac\u2122Brady",
+        "guest": "Colin O'Brady",
         "date": "2020-02-20"
     },
     "#1428": {
@@ -3681,7 +3681,7 @@
     },
     "#1263": {
         "episodeNumber": "#1263",
-        "guest": "Ren\u00c3\u00a9e DiResta",
+        "guest": "Renée DiResta",
         "date": "2019-03-13"
     },
     "#1262": {
@@ -3776,7 +3776,7 @@
     },
     "#1244": {
         "episodeNumber": "#1244",
-        "guest": "Colin O\u00e2\u20ac\u2122Brady",
+        "guest": "Colin O'Brady",
         "date": "2019-02-12"
     },
     "#1243": {
@@ -3921,7 +3921,7 @@
     },
     "#1215": {
         "episodeNumber": "#1215",
-        "guest": "Ben O\u00e2\u20ac\u2122Brien",
+        "guest": "Ben O'Brien",
         "date": "2018-12-18"
     },
     "#1214": {
@@ -4116,7 +4116,7 @@
     },
     "#1176": {
         "episodeNumber": "#1176",
-        "guest": "Dom D\u00e2\u20ac\u2122Agostino, Dr. Layne Norton",
+        "guest": "Dom D'Agostino, Dr. Layne Norton",
         "date": "2018-09-28"
     },
     "#1175": {
@@ -5026,7 +5026,7 @@
     },
     "#994": {
         "episodeNumber": "#994",
-        "guest": "Dom D\u00e2\u20ac\u2122Agostino",
+        "guest": "Dom D'Agostino",
         "date": "2017-08-7"
     },
     "#993": {
@@ -5061,7 +5061,7 @@
     },
     "#987": {
         "episodeNumber": "#987",
-        "guest": "Ben O\u00e2\u20ac\u2122Brien",
+        "guest": "Ben O'Brien",
         "date": "2017-07-14"
     },
     "#986": {
@@ -5076,7 +5076,7 @@
     },
     "#984": {
         "episodeNumber": "#984",
-        "guest": "Yvette d\u00e2\u20ac\u2122Entremont",
+        "guest": "Yvette d'Entremont",
         "date": "2017-07-6"
     },
     "#983": {
@@ -5096,7 +5096,7 @@
     },
     "#980": {
         "episodeNumber": "#980",
-        "guest": "Chris D\u00e2\u20ac\u2122Elia",
+        "guest": "Chris D'Elia",
         "date": "2017-06-27"
     },
     "#979": {
@@ -5351,7 +5351,7 @@
     },
     "#929": {
         "episodeNumber": "#929",
-        "guest": "Dan Pe\u00c3\u00b1a",
+        "guest": "Dan Peña",
         "date": "2017-03-11"
     },
     "#928": {
